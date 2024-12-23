@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="http://cdn.1678520.xyz/xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-name="翡翠台",Jade 翡翠台
+http://192.168.1.100:20005/hls/live/81.m3u8?token=527061199567351
+#EXTINF:-1 ,TVB PLUS
+http://192.168.1.100:20005/hls/live/82.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="无线新闻",News 新聞台
+http://192.168.1.100:20005/hls/live/83.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="明珠台",Pearl 明珠台
+http://192.168.1.100:20005/hls/live/84.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="凤凰香港",鳳凰香港台
+http://192.168.1.100:20005/hls/live/85.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="华语剧台",華語劇台
+http://192.168.1.100:20005/hls/live/89.m3u8?token=527061199567351
+#EXTINF:-1 ,黃金華劇台
+http://192.168.1.100:20005/hls/live/90.m3u8?token=527061199567351
+#EXTINF:-1 ,粵語片台
+http://192.168.1.100:20005/hls/live/200.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="美亚电影",美亞電影台
+http://192.168.1.100:20005/hls/live/201.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="POPC",Popc
+http://192.168.1.100:20005/hls/live/206.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="翡翠台",翡翠4K
+http://192.168.1.100:20005/hls/live/800.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="HOY77",HOY TV
+http://192.168.1.100:20005/hls/live/77.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="HOY78",HOY TV 資訊台
+http://192.168.1.100:20005/hls/live/78.m3u8?token=527061199567351
+#EXTINF:-1 tvg-name="HOY76",HOY 國際財經台
+http://192.168.1.100:20005/hls/live/76.m3u8?token=527061199567351
+#EXTINF:-1 ,ViuTV
+http://192.168.1.100:20005/hls/live/99.m3u8?token=527061199567351
+#EXTINF:-1 ,ViuTV Six
+http://192.168.1.100:20005/hls/live/96.m3u8?token=527061199567351
+#EXTINF:-1 ,Now Popcorn 爆谷台
+http://192.168.1.100:20005/hls/live/133.m3u8?token=527061199567351
+#EXTINF:-1 ,Now Superstars 星影台
+http://192.168.1.100:20005/hls/live/138.m3u8?token=527061199567351
+#EXTINF:-1 ,Now NEWS 新聞台
+http://192.168.1.100:20005/hls/live/332.m3u8?token=527061199567351
+#EXTINF:-1 ,Now Sports 英超1台
+http://192.168.1.100:20005/hls/live/621.m3u8?token=527061199567351
+#EXTINF:-1 ,Now Sports Prime
+http://192.168.1.100:20005/hls/live/630.m3u8?token=527061199567351
+#EXTINF:-1 ,Now Sports 632
+http://192.168.1.100:20005/hls/live/632.m3u8?token=527061199567351
+#EXTINF:-1 ,Now Sports 641
+http://192.168.1.100:20005/hls/live/641.m3u8?token=527061199567351
+#EXTINF:-1 ,Now Sports 642
+http://192.168.1.100:20005/hls/live/642.m3u8?token=527061199567351
+
